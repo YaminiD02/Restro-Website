@@ -1,0 +1,34 @@
+body {
+    background-color: #FFFFE0;
+    color: #333333;
+  }
+  
+  h1, h2, h3 {
+    color: #FFD700;
+  }
+  
+  a {
+    color: #FFD700;
+  }
+  
+  button {
+    background-color: #FFD700;
+    color: #FFFFFF;
+  }
+  
+  input[type="text"],
+  input[type="date"],
+  input[type="time"],
+  input[type="number"] {
+    background-color: #FFFFE0;
+    border: 1px solid #FFD700;
+    color: #333333;
+  }
+  
+  input[type="submit"] {
+    background-color: #FFD700;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }

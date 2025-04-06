@@ -1,0 +1,27 @@
+.menu {
+    width: 100%;
+    opacity: 0.95;
+    z-index: 999;
+  }
+  
+  .brand-title {
+    color: #ffc107 !important;
+  }
+  
+  .nav-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem; /* This controls spacing between menu items */
+  }
+  
+  .nav-link {
+    color: #ffffff !important;
+    font-weight: 500;
+  }
+  
+  .nav-link:hover {
+    color: #ffc107 !important;
+    text-decoration: underline;
+  }
+  
